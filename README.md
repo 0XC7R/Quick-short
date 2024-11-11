@@ -28,10 +28,10 @@ https://github.com/PHPMailer/PHPMailer
 
 *Below is copied from the composer.json file.*
 
-phpmailer/phpmailer ^6.9.2
-chillerlan/php-qrcode ^5.0
-pragmarx/google2fa-qrcode ^3.0
-pragmarx/google2fa ^8.0
+- phpmailer/phpmailer ^6.9.2
+- chillerlan/php-qrcode ^5.0
+- pragmarx/google2fa-qrcode ^3.0
+- pragmarx/google2fa ^8.0
 
 ###
 
