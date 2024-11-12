@@ -1,4 +1,7 @@
 {
+    "name": "0XC7R/Quick-short",
+    "description": "Free url shortening manager.",
+    "license": "MIT",
     "require": {
         "chillerlan/php-qrcode": "^5.0",
         "pragmarx/google2fa-qrcode": "^3.0",
